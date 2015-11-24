@@ -1,0 +1,31 @@
+@@ -33,8 +33,8 @@
+        </ul>
+      </div><!--close menubar-->	
+	</nav>
+	<div id="sie_content">
+      <div class="sideshow">
+	<div id="site_content">
+      <div class="slideshow">
+        <ul class="slideshow">
+		<li class="show"><img width="940" height="300" src="images/students_in_classroom2.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+          <li><img width="940" height="300" src="images/students_in_classroom2.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+@@ -50,8 +50,8 @@
+      </div>
+	  <!--close slideshow-->
+      <div class="sidebar_container">
+        <div class="sidbar">
+          <div class="sidebr_item">
+        <div class="sidebar">
+          <div class="sidebar_item">
+            <h2>New Website</h2>
+            <p>Welcome to our new website. Please have a look around, any feedback is much appreciated.</p>
+          </div>
+@@ -86,7 +86,7 @@
+        <!--close sidebar-->
+      </div>
+	  <!--close sidebar_container-->
+     <div id="content">
+      <div id="content">
+        <div class="content_item">
+          <div class="form_settings">
+            <h2>Contact Us</h2>
