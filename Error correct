@@ -1,0 +1,11 @@
+@@ -36,8 +36,8 @@
+    
+	<div id="site_content">		
+	
+      <div class="sldeshow">
+	    <ul class="slidshow">
+      <div class="slideshow">
+	    <ul class="slideshow">
+          <li class="show"><img width="940" height="300" src="images/abc.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+		  <li><img width="940" height="300" src="images/abc.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+         <li><img width="940" height="300" src="images/def.jpg" alt="&quot;Best Education Centre&quot;" /></li>
