@@ -1,0 +1,13 @@
+  <div class="slideshow">
+	    <ul class="slideshow">
+          <li class="show"><img width="940" height="300" src="images/mno.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+		  <li><img width="940" height="300" src="images/abc.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+         <li><img width="940" height="300" src="images/def.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+         <li><img width="940" height="300" src="images/ghi.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+         <li><img width="940" height="300" src="images/jkl.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+         <li><img width="940" height="300" src="images/mno.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+        <li><img width="940" height="300" src="images/home_1.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+        <li><img width="940" height="300" src="images/home_2.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+        <li><img width="940" height="300" src="images/students_in_classroom2.jpg" alt="&quot;Best Education Centre&quot;" /></li>
+        </ul> 
+	  </div><!--close slideshow-->	
